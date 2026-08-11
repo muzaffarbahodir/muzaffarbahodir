@@ -27,3 +27,4 @@
 - [x] Verified core competency milestone #25 (System Reliability Engineering)
 - [x] Verified core competency milestone #26 (System Reliability Engineering)
 - [x] Verified core competency milestone #27 (System Reliability Engineering)
+- [x] Verified core competency milestone #28 (System Reliability Engineering)
