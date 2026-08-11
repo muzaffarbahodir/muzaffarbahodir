@@ -20,3 +20,4 @@
 - [x] Verified core competency milestone #18 (System Reliability Engineering)
 - [x] Verified core competency milestone #19 (System Reliability Engineering)
 - [x] Verified core competency milestone #20 (System Reliability Engineering)
+- [x] Verified core competency milestone #21 (System Reliability Engineering)
