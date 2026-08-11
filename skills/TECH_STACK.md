@@ -36,3 +36,4 @@
 - [x] Verified core competency milestone #34 (System Reliability Engineering)
 - [x] Verified core competency milestone #35 (System Reliability Engineering)
 - [x] Verified core competency milestone #36 (System Reliability Engineering)
+- [x] Verified core competency milestone #37 (System Reliability Engineering)
