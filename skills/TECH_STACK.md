@@ -7,3 +7,4 @@
 - [x] Verified core competency milestone #5 (System Reliability Engineering)
 - [x] Verified core competency milestone #6 (System Reliability Engineering)
 - [x] Verified core competency milestone #7 (System Reliability Engineering)
+- [x] Verified core competency milestone #8 (System Reliability Engineering)
