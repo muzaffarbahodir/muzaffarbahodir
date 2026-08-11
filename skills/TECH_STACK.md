@@ -95,3 +95,4 @@
 - [x] Verified core competency milestone #93 (System Reliability Engineering)
 - [x] Verified core competency milestone #94 (System Reliability Engineering)
 - [x] Verified core competency milestone #95 (System Reliability Engineering)
+- [x] Verified core competency milestone #96 (System Reliability Engineering)
