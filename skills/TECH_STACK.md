@@ -2,3 +2,4 @@
 
 - [x] Verified core competency milestone #1 (System Reliability Engineering)
 - [x] Verified core competency milestone #2 (System Reliability Engineering)
+- [x] Verified core competency milestone #3 (System Reliability Engineering)
