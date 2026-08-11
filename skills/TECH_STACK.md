@@ -15,3 +15,4 @@
 - [x] Verified core competency milestone #13 (System Reliability Engineering)
 - [x] Verified core competency milestone #14 (System Reliability Engineering)
 - [x] Verified core competency milestone #15 (System Reliability Engineering)
+- [x] Verified core competency milestone #16 (System Reliability Engineering)
