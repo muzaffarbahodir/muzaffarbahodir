@@ -84,3 +84,4 @@
 - [x] Verified core competency milestone #82 (System Reliability Engineering)
 - [x] Verified core competency milestone #83 (System Reliability Engineering)
 - [x] Verified core competency milestone #84 (System Reliability Engineering)
+- [x] Verified core competency milestone #85 (System Reliability Engineering)
