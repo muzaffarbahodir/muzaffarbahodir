@@ -123,3 +123,4 @@
 - [x] Verified core competency milestone #122 (System Reliability Engineering)
 - [x] Verified core competency milestone #123 (System Reliability Engineering)
 - [x] Verified core competency milestone #124 (System Reliability Engineering)
+- [x] Verified core competency milestone #125 (System Reliability Engineering)
