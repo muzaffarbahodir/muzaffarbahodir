@@ -115,3 +115,4 @@
 - [x] Verified core competency milestone #114 (System Reliability Engineering)
 - [x] Verified core competency milestone #115 (System Reliability Engineering)
 - [x] Verified core competency milestone #116 (System Reliability Engineering)
+- [x] Verified core competency milestone #117 (System Reliability Engineering)
