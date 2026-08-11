@@ -90,3 +90,4 @@
 - [x] Verified core competency milestone #88 (System Reliability Engineering)
 - [x] Verified core competency milestone #89 (System Reliability Engineering)
 - [x] Verified core competency milestone #90 (System Reliability Engineering)
+- [x] Verified core competency milestone #91 (System Reliability Engineering)
