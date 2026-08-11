@@ -61,3 +61,4 @@
 - [x] Verified core competency milestone #59 (System Reliability Engineering)
 - [x] Verified core competency milestone #60 (System Reliability Engineering)
 - [x] Verified core competency milestone #61 (System Reliability Engineering)
+- [x] Verified core competency milestone #62 (System Reliability Engineering)
