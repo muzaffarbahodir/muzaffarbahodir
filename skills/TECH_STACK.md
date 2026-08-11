@@ -108,3 +108,4 @@
 - [x] Verified core competency milestone #106 (System Reliability Engineering)
 - [x] Verified core competency milestone #108 (System Reliability Engineering)
 - [x] Verified core competency milestone #109 (System Reliability Engineering)
+- [x] Verified core competency milestone #110 (System Reliability Engineering)
