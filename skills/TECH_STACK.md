@@ -72,3 +72,4 @@
 - [x] Verified core competency milestone #70 (System Reliability Engineering)
 - [x] Verified core competency milestone #71 (System Reliability Engineering)
 - [x] Verified core competency milestone #72 (System Reliability Engineering)
+- [x] Verified core competency milestone #73 (System Reliability Engineering)
